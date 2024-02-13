@@ -1,0 +1,26 @@
+        body {
+            font-family: 'Roboto', sans-serif;
+            text-align: center;
+            background-color: beige;
+            margin: 20px;
+            color: black;
+        }
+
+        .post {
+            border: 1px solid #ccc;
+            padding: 20px;
+            border-radius: 8px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            font-family: Arsenica, sans-serif;
+            color: #333;
+        }
+
+        p {
+            color: #666;
+        }
